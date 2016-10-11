@@ -1,0 +1,9 @@
+[submodule "dlkit"]
+	path = dlkit
+	url = https://bitbucket.org/cjshaw/dlkit-lite.git
+[submodule "records"]
+	path = records
+	url = https://bitbucket.org/cjshaw/records.git
+[submodule "dlkit_edx"]
+	path = dlkit_edx
+	url = https://bitbucket.org/cjshaw/dlkit_edx.git
