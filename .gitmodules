@@ -4,6 +4,6 @@
 [submodule "records"]
 	path = records
 	url = https://cjshaw@bitbucket.org/cjshaw/records.git
-[submodule "dlkit-lite"]
-	path = dlkit-lite
+[submodule "dlkit"]
+	path = dlkit
 	url = https://cjshaw@bitbucket.org/cjshaw/dlkit-lite.git
