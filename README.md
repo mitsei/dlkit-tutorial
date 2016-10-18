@@ -1,5 +1,8 @@
 Basic DLKit tutorial, to run in Jupyter Notebook (formerly iPython Notebook).
 
+The instructions below are for Python 2.7. You may need to modify the
+`pip` install instructions for Python 3.
+
 ````
 $ pip install -r requirements.txt
 $ git submodule init
