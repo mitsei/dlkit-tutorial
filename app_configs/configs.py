@@ -136,6 +136,14 @@ SERVICE = {
                 {'value': 'FILESYSTEM_1', 'priority': 1}
             ]
         },
+        'resourceProviderImpl': {
+            'syntax': 'STRING',
+            'displayName': 'Resource Provider Implementation',
+            'description': 'Implementation for resource service provider',
+            'values': [
+                {'value': 'FILESYSTEM_1', 'priority': 1}
+            ]
+        },
     }
 }
 

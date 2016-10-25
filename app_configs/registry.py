@@ -27,7 +27,9 @@ MANAGER_PATHS = {
         'LOGGING': ('dlkit.mongo.logging_.managers.LoggingManager',
                     'dlkit.mongo.logging_.managers.LoggingProxyManager'),
         'REPOSITORY': ('dlkit.mongo.repository.managers.RepositoryManager',
-                       'dlkit.mongo.repository.managers.RepositoryProxyManager')
+                       'dlkit.mongo.repository.managers.RepositoryProxyManager'),
+        'RESOURCE': ('dlkit.mongo.resource.managers.ResourceManager',
+                     'dlkit.mongo.resource.managers.ResourceProxyManager')
     },
     'filesystem_adapter': {
         'REPOSITORY': ('dlkit.filesystem.repository.managers.RepositoryManager',
